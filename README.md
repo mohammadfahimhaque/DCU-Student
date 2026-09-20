@@ -40,6 +40,8 @@ I'm a Computing postgraduate student at **Dublin City University (DCU)** with a 
 * PostgreSQL
 * Docker
 * Git & GitHub
+* Framer
+* Webflow
 
 **Other**
 
