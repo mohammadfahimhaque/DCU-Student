@@ -35,7 +35,6 @@ I'm a Computing postgraduate student at **Dublin City University (DCU)** with a 
 **Development**
 
 * React
-* Flask
 * FastAPI
 * PostgreSQL
 * Docker
