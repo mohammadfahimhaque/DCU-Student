@@ -1,7 +1,7 @@
 # Hi, I'm Fahim 👋
 
-🎓 **MSc in Computing — Cybersecurity** @ Dublin City University
-💻 **BSc in Computer Science & Engineering** @ BRAC University
+🎓 **MSc in Computing — Cybersecurity** @ Dublin City University, Dublin, Ireland.
+💻 **BSc in Computer Science & Engineering** @ BRAC University, Dhaka, Bangladesh.
 
 I'm a Computing postgraduate student at **Dublin City University (DCU)** with a background in software development, frontend development, and UI/UX design. I'm currently developing my skills in **cybersecurity, software engineering, and secure application development**.
 
